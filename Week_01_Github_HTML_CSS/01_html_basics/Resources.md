@@ -3,16 +3,16 @@
 ##HTML BASICS
 
 * HTML Markup Validator
-..* https://validator.w3.org/#validate_by_input
+  * https://validator.w3.org/#validate_by_input
 
 * HTML Vocabulary
-..* http://apps.workflower.fi/vocabs/html/en
+  * http://apps.workflower.fi/vocabs/html/en
 
 * HTML Element Cheat Sheets
-..* PDF Alphebetical http://websitesetup.org/html5-cheat-sheet/
-..* Elements by function http://www.w3.org/TR/html-markup/elements-by-function.html
-..* Good examples of usage http://htmldog.com/reference/htmltags/
-..* Good examples of browser rendering https://computerservices.temple.edu/commonly-used-html-tags
+  * PDF Alphebetical http://websitesetup.org/html5-cheat-sheet/
+  * Elements by function http://www.w3.org/TR/html-markup/elements-by-function.html
+  * Good examples of usage http://htmldog.com/reference/htmltags/
+  * Good examples of browser rendering https://computerservices.temple.edu/commonly-used-html-tags
 
 * HTML Tutorials
-..* http://htmldog.com/guides/html/beginner/
+  * http://htmldog.com/guides/html/beginner/
