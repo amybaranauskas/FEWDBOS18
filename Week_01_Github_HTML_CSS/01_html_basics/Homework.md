@@ -11,7 +11,8 @@
 * Code: 
   * Create a resume in an HTML file using HTML tags.  
   * Bonus:  Link a CSS file to it and experiment with styling the page. 
-  * REMEBER:  To submit your homework assignment
+ 
+####REMEMBER:  Submit your homework assignment
   1.  Create a repo for your new assignment on Github
   2.  Clone a local repository
   3.  Complete the assignment on your local files
