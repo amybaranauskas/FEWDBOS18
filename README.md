@@ -10,7 +10,7 @@ __If you are not on the fewd-bos-18 slack channel please speak to your teacher i
 
 ##Planning ahead
 
-Take a look at our schedule, if you can't make a class please notify your GA instructor team so that they can help you make up any loss time.
+Take a look at our schedule, if you can't make a class please notify your GA instructor team so that they can help you make up any loss time.  This can be done through messaging them directly on Slack.  For any upcoming absences, be sure to post to the #attendance channel of what days you will be missing class.  Please be aware, there are a limited number of classes you can miss + still be considered a successful graduate of the program!
 
 ##Homework
 
