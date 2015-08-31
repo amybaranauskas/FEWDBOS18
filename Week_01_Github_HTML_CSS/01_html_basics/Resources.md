@@ -16,3 +16,6 @@
 
 * HTML Tutorials
   * http://htmldog.com/guides/html/beginner/
+
+*  HTML tags vs elements
+  * https://stackoverflow.com/questions/8937384/what-is-the-difference-between-tags-and-elements-html
