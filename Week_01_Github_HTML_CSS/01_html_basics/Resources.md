@@ -12,6 +12,7 @@
 ..* PDF Alphebetical http://websitesetup.org/html5-cheat-sheet/
 ..* Elements by function http://www.w3.org/TR/html-markup/elements-by-function.html
 ..* Good examples of usage http://htmldog.com/reference/htmltags/
+..* Good examples of browser rendering https://computerservices.temple.edu/commonly-used-html-tags
 
 * HTML Tutorials
 ..* http://htmldog.com/guides/html/beginner/
