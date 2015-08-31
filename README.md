@@ -10,7 +10,7 @@ __If you are not on the fewd-bos-18 slack channel please speak to your teacher i
 
 ##Planning ahead
 
-Take a look at our schedule, if you can' make a class please notify your GA instructor team so that they can help you make up any loss time.
+Take a look at our schedule, if you can't make a class please notify your GA instructor team so that they can help you make up any loss time.
 
 ##Homework
 
