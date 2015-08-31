@@ -1,8 +1,10 @@
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
-##Front-End Web Development
+##Front-End Web Development 18
 
 Welcome to General Assembly Boston's Front End Web Development!
+
+Class will be meeting Monday and Wednesday nights at 7:00pm sharp.  Class will be held in Classroom 01 unless otherwise noted.
 
 For instructions on how to join this repo, please ask your instructors on SLACK.
 
